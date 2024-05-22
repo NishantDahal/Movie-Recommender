@@ -1,5 +1,8 @@
 # Movie-Recommender
 <a href="https://huggingface.co/spaces/NishantD/Movie_Recommender"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Model_Card-Huggingface-orange"></a> 
+
+
+
 This project implements a movie recommender system using TMDB movie data. 
 
 **Dataset:**
