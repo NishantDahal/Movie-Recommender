@@ -39,6 +39,6 @@ This recommender system uses Python libraries. To run the application locally, y
 
 **Running the Application:**
 
-1. After installing the dependencies, run the application using: `python app.py`
+1. After installing the dependencies, run the application using: `streamlit app.py`
 
 This will start the movie recommender system. You'll be able to interact with the application to receive movie recommendations based on your preferences.
